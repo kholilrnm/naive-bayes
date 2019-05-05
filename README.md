@@ -1,2 +1,0 @@
-# naive-bayes
-tes
