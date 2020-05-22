@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kholilboy/naive-bayes)
 
-## STAR REPOSITORY Ini, Untuk Membantu Saya Dalam Meningkatkan Project Repo.
+## STAR REPOSITORY Ini, Untuk Membantu Saya Dalam Meningkatkan Project Repo
 - Kirim Pull Request Jika mau berkontribusi dalam project ini
 - Kirim Issues, Jika ada permasalahan pada project ini
 
