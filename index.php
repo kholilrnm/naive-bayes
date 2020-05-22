@@ -47,7 +47,7 @@
 <!--Footer-->
 <footer class="footer_wrapper" id="contact">
   <div class="container">
-    <div class="footer_bottom"><span>Team Final Project © 2019 <a href="index.php">[Kholil, Sandy, Guntur]</a>. </span> </div>
+    <div class="footer_bottom"><span>Team Final Project - Metnum © 2019 <a href="index.php">[Kholil, Sandy, Guntur]</a>. </span> </div>
   </div>
 </footer>
 <!--Footer-->
